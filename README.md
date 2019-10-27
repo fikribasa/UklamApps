@@ -1,4 +1,5 @@
 <h1 align='center'>Uklam</h1><br/><br /><br />
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <p align="center">
   <img src="./src/Assets/brands/logo.png" width="300px"/>
 </p>
@@ -62,3 +63,19 @@ Uklam is a Must Have App for Traveler who want to explore popular destination wi
 <a href="https://drive.google.com/file/d/1y9RGvpgDUG2NGo7tGkGW3HRaWi7oK08Y/view?usp=sharing">
   Download here
 </a>
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/mahendragalih"><img src="https://avatars3.githubusercontent.com/u/35839038?v=4" width="100px;" alt="mahendragalih"/><br /><sub><b>mahendragalih</b></sub></a><br /><a href="#infra-mahendragalih" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/fikribasa/UklamApps/commits?author=mahendragalih" title="Tests">⚠️</a> <a href="https://github.com/fikribasa/UklamApps/commits?author=mahendragalih" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
