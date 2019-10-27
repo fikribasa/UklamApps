@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "mahendragalih",
+      "name": "mahendragalih",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/35839038?v=4",
+      "profile": "https://github.com/mahendragalih",
+      "contributions": [
+        "infra",
+        "test",
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "UklamApps",
+  "projectOwner": "fikribasa",
+  "repoType": "github",
+  "repoHost": "https://github.com"
+}
